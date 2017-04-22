@@ -100,7 +100,8 @@
         "start": "npm run compile && node dist/index.js",
         "test": "mocha --compilers js:babel-register"
     },
-    "version": "1.0.8"
+    "version": "1.0.8",
+    "bin": {}
 }
 ```
 
